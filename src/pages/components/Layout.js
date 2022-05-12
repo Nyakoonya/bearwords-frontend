@@ -19,7 +19,7 @@ export default class Layout extends Component {
               <img src=""></img> BearWords
             </Navbar.Brand>
             <Nav className="me-auto">
-              <Nav.Link href="/">Home</Nav.Link>
+              <Nav.Link href="home">Home</Nav.Link>
               <Nav.Link href="test">Features</Nav.Link>
               <Nav.Link href="/">Pricing</Nav.Link>
             </Nav>

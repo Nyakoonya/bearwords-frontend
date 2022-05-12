@@ -40,10 +40,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": {
-    "/api": {
-      "target": "http://localhost:3333",
-      "changeOrigin": true
-    }
-  }
+  "proxy": "http://localhost:3333"
 }
